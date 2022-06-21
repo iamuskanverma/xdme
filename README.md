@@ -9,11 +9,10 @@
 
 - 💬 Ask me about **Umm nothing**
 
-- 📫 How to reach me **@MELODY_QUEEN20**
+
 
 - ⚡ Fun fact **I don't think I am funny xd**
-
-<h3 align="left">Connect with me:</h3>
+</h3>
 <p align="left">
 </p>
 
