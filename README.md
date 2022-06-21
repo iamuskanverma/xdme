@@ -1,2 +1,2 @@
-# xdme
-Hii frandzz
+# hii there 👋
+It's me 
