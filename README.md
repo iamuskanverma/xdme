@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, i am Just Melody queen</h1>
 <h3 align="center">India is luv💞 i want to do something for my country 😌🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melodyqueen&label=Profile%200views&color=0e75b6&style=flat" alt="melodyqueen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melodyqueen&label=Profile%20views&color=0e750b6&style=flat" alt="melodyqueen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melodyqueen" alt="melodyqueen" /></a> </p>
 
