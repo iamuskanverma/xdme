@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, i am Melody queen</h1>
 <h3 align="center"> i am from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melodyqueen&label=Profile%20views&color=0e75b6&style=flat" alt="melodyqueen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamuskanverma&label=Profile%20views&color=0e75b6&style=flat" alt="iamuskanverma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melodyqueen" alt="melodyqueen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamuskanverma" alt="iamuskanverma" /></a> </p>
 
 - 🌱 I’m currently learning **Python javascript**
 
