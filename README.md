@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamuskanverma" alt="iamuskanverma" /></a> </p>
 
-- 🌱 I’m currently learning **Python, javascript,java**
+- 🌱 I’m currently learning **Javascript,Java**
 
-- 💬 Ask me about python,html ,java.
+- 💬 Ask me about Projects, Hackthons, Open Source, Stratups, Next-Gen tech
 
 
 
-- ⚡ Fun fact **I don't think I am funny xd**
+- ⚡ Fun fact **I don't think I am funny**
 </h3>
 <p align="left">
 </p>
