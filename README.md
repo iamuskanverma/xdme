@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript,Java**
 
-- 💬 Ask me about Projects, Hackthons, Open Source, Stratups, Next-Gen tech
+- 💬 Ask me about Projects,Open Source, Stratups, Next-Gen tech
 
 
 
